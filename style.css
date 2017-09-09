@@ -1,0 +1,36 @@
+body {
+  background-image: url("rain.png");
+  background-repeat: repeat;
+}
+section#stBarts {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section#stCroix {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section#stJohn {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section#stMarteen {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section#puertoRico {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+span.logo {
+  padding-left: .5rem;
+}
+div.container {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
